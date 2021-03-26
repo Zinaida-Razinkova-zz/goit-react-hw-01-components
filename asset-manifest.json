@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/goit-markup-hw-01/static/css/main.2fd0a66f.chunk.css",
+    "main.js": "/goit-markup-hw-01/static/js/main.b29d04b6.chunk.js",
+    "main.js.map": "/goit-markup-hw-01/static/js/main.b29d04b6.chunk.js.map",
+    "runtime-main.js": "/goit-markup-hw-01/static/js/runtime-main.1c88bafb.js",
+    "runtime-main.js.map": "/goit-markup-hw-01/static/js/runtime-main.1c88bafb.js.map",
+    "static/css/2.de71bbd8.chunk.css": "/goit-markup-hw-01/static/css/2.de71bbd8.chunk.css",
+    "static/js/2.e2b45063.chunk.js": "/goit-markup-hw-01/static/js/2.e2b45063.chunk.js",
+    "static/js/2.e2b45063.chunk.js.map": "/goit-markup-hw-01/static/js/2.e2b45063.chunk.js.map",
+    "index.html": "/goit-markup-hw-01/index.html",
+    "static/css/2.de71bbd8.chunk.css.map": "/goit-markup-hw-01/static/css/2.de71bbd8.chunk.css.map",
+    "static/css/main.2fd0a66f.chunk.css.map": "/goit-markup-hw-01/static/css/main.2fd0a66f.chunk.css.map",
+    "static/js/2.e2b45063.chunk.js.LICENSE.txt": "/goit-markup-hw-01/static/js/2.e2b45063.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c88bafb.js",
+    "static/css/2.de71bbd8.chunk.css",
+    "static/js/2.e2b45063.chunk.js",
+    "static/css/main.2fd0a66f.chunk.css",
+    "static/js/main.b29d04b6.chunk.js"
+  ]
+}
