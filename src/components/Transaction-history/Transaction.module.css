@@ -1,0 +1,18 @@
+.transaction {
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 600px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.line {
+  height: 40px;
+  background-color: #97a2ae;
+}
+.column {
+  height: 40px;
+  background-color: rgb(213, 210, 255);
+}
